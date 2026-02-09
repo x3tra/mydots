@@ -1,0 +1,7 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export ANDROID_HOME:/home/max\x2ds/Android/Sdk
+SETUVAR --export ANDROID_SDK_ROOT:/home/max\x2ds/Android/Sdk
+SETUVAR --export --path PATH:/home/max\x2ds/Android/Sdk/platform\x2dtools\x1e/home/max\x2ds/Android/Sdk/cmdline\x2dtools/latest/bin\x1e/home/max\x2ds/Downloads/Discord\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/lib/jvm/default/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/var/lib/snapd/snap/bin\x1e/opt/yandex\x2dmusic
+SETUVAR __fish_initialized:4300
+SETUVAR fish_user_paths:/home/max\x2ds/Downloads/Discord
